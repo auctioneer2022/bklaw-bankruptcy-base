@@ -14,11 +14,11 @@ author: "知识库维护团队"
 
 | 文件名称 | 文号 | 发布日期 | 主要内容 |
 |---------|------|---------|---------|
-| [《上市公司监管指引第11号——上市公司破产重整相关事项》](shang-shi-gong-si-jian-guan-zhi-yin-11-hao-po-chan-chong-zheng-2025-2-hao.md) | 证监会公告〔2025〕2号 | 2025年3月14日 | 上市公司破产重整监管指引，明确重整价值判断、信息披露、权益调整、投资人引入等要求 |
-| [《上海证券交易所上市公司自律监管指引第13号——破产重整等事项（2025年修订）》](shang-jiao-suo-shang-shi-gong-si-zi-lu-jian-guan-zhi-yin-13-hao-po-chan-chong-zheng-2025-30-hao.md) | 上证发〔2025〕30号 | 2025年3月14日 | 上交所上市公司破产重整信息披露、停复牌、投资人招募、重整计划执行等自律监管规则 |
-| [《深圳证券交易所上市公司自律监管指引第14号——破产重整等事项（2025年修订）》](shen-jiao-suo-shang-shi-gong-si-zi-lu-jian-guan-zhi-yin-14-hao-po-chan-chong-zheng-2025-201-hao.md) | 深证上〔2025〕201号 | 2025年3月14日 | 深交所上市公司破产重整信息披露、停复牌、投资人招募、重整计划执行等自律监管规则 |
-| [《上市公司重大资产重组管理办法》](shang-shi-gong-si-zhong-da-zi-chan-zhong-zu-guan-li-ban-fa-2020-166-hao.md) | 证监会令第166号 | 2020年3月20日 | 上市公司重大资产重组的原则、标准、程序、信息披露、发行股份购买资产等规定 |
-| [《关于破产重整上市公司重大资产重组股份发行定价的补充规定》](po-chan-chong-zheng-shang-shi-gong-si-zhong-da-zi-chan-zhong-zu-gu-fen-fa-xing-ding-jia-2008-44-hao.md) | 证监会公告〔2008〕44号 | 2008年11月11日 | 破产重整上市公司重大资产重组股份发行价格的协商定价机制及表决要求 |
+| [《上市公司监管指引第11号——上市公司破产重整相关事项》](shang-shi-gong-si-jian-guan-zhi-yin-11-hao-po-chan-chong-zheng-2025-2-hao.md) | 证监会公告〔2025〕2 号 | 2025 年 3 月 14 日 | 上市公司破产重整监管指引，明确重整价值判断、信息披露、权益调整、投资人引入等要求 |
+| [《上海证券交易所上市公司自律监管指引第13号——破产重整等事项（2025年修订）》](shang-jiao-suo-shang-shi-gong-si-zi-lu-jian-guan-zhi-yin-13-hao-po-chan-chong-zheng-2025-30-hao.md) | 上证发〔2025〕30 号 | 2025 年 3 月 14 日 | 上交所上市公司破产重整信息披露、停复牌、投资人招募、重整计划执行等自律监管规则 |
+| [《深圳证券交易所上市公司自律监管指引第14号——破产重整等事项（2025年修订）》](shen-jiao-suo-shang-shi-gong-si-zi-lu-jian-guan-zhi-yin-14-hao-po-chan-chong-zheng-2025-201-hao.md) | 深证上〔2025〕201 号 | 2025 年 3 月 14 日 | 深交所上市公司破产重整信息披露、停复牌、投资人招募、重整计划执行等自律监管规则 |
+| [《上市公司重大资产重组管理办法》](shang-shi-gong-si-zhong-da-zi-chan-zhong-zu-guan-li-ban-fa-2020-166-hao.md) | 证监会令第 166 号 | 2020 年 3 月 20 日 | 上市公司重大资产重组的原则、标准、程序、信息披露、发行股份购买资产等规定 |
+| [《关于破产重整上市公司重大资产重组股份发行定价的补充规定》](po-chan-chong-zheng-shang-shi-gong-si-zhong-da-zi-chan-zhong-zu-gu-fen-fa-xing-ding-jia-2008-44-hao.md) | 证监会公告〔2008〕44 号 | 2008 年 11 月 11 日 | 破产重整上市公司重大资产重组股份发行价格的协商定价机制及表决要求 |
 
 ## 内容说明
 

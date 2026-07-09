@@ -14,10 +14,10 @@ author: "知识库维护团队"
 
 | 文件名称 | 文号 | 发布日期 | 主要内容 |
 |---------|------|---------|---------|
-| [《商业银行资本管理办法（试行）》](shang-ye-yin-hang-zi-ben-guan-li-ban-fa-2012-1-hao.md) | 银监会令2012年第1号 | 2012年6月7日 | 商业银行资本充足率监管要求、资本定义、风险加权资产计量、监督检查和信息披露 |
-| [《金融资产投资公司管理办法（试行）》](jin-rong-zi-chan-tou-zi-gong-si-guan-li-ban-fa-2018-4-hao.md) | 银保监会令2018年第4号 | 2018年6月29日 | 金融资产投资公司设立、业务范围、债转股业务规则、风险管理 |
-| [《关于完善系统重要性金融机构监管的指导意见》](guan-yu-wan-shan-xi-tong-zhong-yao-xing-jin-rong-ji-gou-jian-guan-de-zhi-dao-yi-jian-2018-301-hao.md) | 银发〔2018〕301号 | 2018年11月26日 | 系统重要性金融机构识别、特别监管要求、特别处置机制 |
-| [《金融机构客户尽职调查和客户身份资料及交易记录保存管理办法》](jin-rong-ji-gou-ke-hu-jin-zhi-diao-cha-he-ke-hu-shen-fen-zi-liao-ji-jiao-yi-ji-lu-bao-cun-guan-li-ban-fa-2025-11-hao.md) | 〔2025〕第11号令 | 2025年10月31日 | 金融机构客户尽职调查、客户身份资料及交易记录保存、反洗钱义务 |
+| [《商业银行资本管理办法（试行）》](shang-ye-yin-hang-zi-ben-guan-li-ban-fa-2012-1-hao.md) | 银监会令 2012 年第 1 号 | 2012 年 6 月 7 日 | 商业银行资本充足率监管要求、资本定义、风险加权资产计量、监督检查和信息披露 |
+| [《金融资产投资公司管理办法（试行）》](jin-rong-zi-chan-tou-zi-gong-si-guan-li-ban-fa-2018-4-hao.md) | 银保监会令 2018 年第 4 号 | 2018 年 6 月 29 日 | 金融资产投资公司设立、业务范围、债转股业务规则、风险管理 |
+| [《关于完善系统重要性金融机构监管的指导意见》](guan-yu-wan-shan-xi-tong-zhong-yao-xing-jin-rong-ji-gou-jian-guan-de-zhi-dao-yi-jian-2018-301-hao.md) | 银发〔2018〕301 号 | 2018 年 11 月 26 日 | 系统重要性金融机构识别、特别监管要求、特别处置机制 |
+| [《金融机构客户尽职调查和客户身份资料及交易记录保存管理办法》](jin-rong-ji-gou-ke-hu-jin-zhi-diao-cha-he-ke-hu-shen-fen-zi-liao-ji-jiao-yi-ji-lu-bao-cun-guan-li-ban-fa-2025-11-hao.md) | 〔2025〕第 11 号令 | 2025 年 10 月 31 日 | 金融机构客户尽职调查、客户身份资料及交易记录保存、反洗钱义务 |
 
 ## 内容说明
 

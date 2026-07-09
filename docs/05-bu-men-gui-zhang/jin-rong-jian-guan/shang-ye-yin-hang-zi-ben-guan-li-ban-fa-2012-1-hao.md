@@ -8,10 +8,10 @@ author: "中国银行业监督管理委员会"
 
 # 商业银行资本管理办法（试行）
 
-**文号**：银监会令2012年第1号  
-**发布机关**：中国银行业监督管理委员会  
-**发布日期**：2012年6月7日  
-**施行日期**：2013年1月1日  
+**文号**：银监会令 2012 年第 1 号
+**发布机关**：中国银行业监督管理委员会
+**发布日期**：2012 年 6 月 7 日
+**施行日期**：2013 年 1 月 1 日
 **效力状态**：现行有效（已多次修订更新）
 
 ---
@@ -216,6 +216,6 @@ author: "中国银行业监督管理委员会"
 
 ## 关联文件
 
-- [《金融资产投资公司管理办法（试行）》](jin-rong-zi-chan-tou-zi-gong-si-guan-li-ban-fa-2018-4-hao.md)（银保监会令2018年第4号）
-- [《关于完善系统重要性金融机构监管的指导意见》](guan-yu-wan-shan-xi-tong-zhong-yao-xing-jin-rong-ji-gou-jian-guan-de-zhi-dao-yi-jian-2018-301-hao.md)（银发〔2018〕301号）
-- [《金融机构撤销条例》](../../02-xing-zheng-fa-gui/jin-rong-ji-gou-che-xiao-tiao-li.md)（国务院令第324号）
+- [《金融资产投资公司管理办法（试行）》](jin-rong-zi-chan-tou-zi-gong-si-guan-li-ban-fa-2018-4-hao.md)（银保监会令 2018 年第 4 号）
+- [《关于完善系统重要性金融机构监管的指导意见》](guan-yu-wan-shan-xi-tong-zhong-yao-xing-jin-rong-ji-gou-jian-guan-de-zhi-dao-yi-jian-2018-301-hao.md)（银发〔2018〕301 号）
+- [《金融机构撤销条例》](../../02-xing-zheng-fa-gui/jin-rong-ji-gou-che-xiao-tiao-li.md)（国务院令第 324 号）

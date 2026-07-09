@@ -6,13 +6,13 @@ date: "2025-03-14"
 author: "深圳证券交易所"
 ---
 
-# 深圳证券交易所上市公司自律监管指引第14号——破产重整等事项（2025年修订）
+# 深圳证券交易所上市公司自律监管指引第 14 号——破产重整等事项（2025 年修订）
 
-**文号**：深证上〔2025〕201号  
-**发布机关**：深圳证券交易所  
-**发布日期**：2025年3月14日  
-**施行日期**：2025年3月14日  
-**效力状态**：现行有效（原2022年版本同时废止）
+**文号**：深证上〔2025〕201 号
+**发布机关**：深圳证券交易所
+**发布日期**：2025 年 3 月 14 日
+**施行日期**：2025 年 3 月 14 日
+**效力状态**：现行有效（原 2022 年版本同时废止）
 
 ---
 
@@ -187,6 +187,6 @@ author: "深圳证券交易所"
 
 ## 关联文件
 
-- [《上市公司监管指引第11号——上市公司破产重整相关事项》](shang-shi-gong-si-jian-guan-zhi-yin-11-hao-po-chan-chong-zheng-2025-2-hao.md)（证监会公告〔2025〕2号）
-- [《上海证券交易所上市公司自律监管指引第13号——破产重整等事项（2025年修订）》](shang-jiao-suo-shang-shi-gong-si-zi-lu-jian-guan-zhi-yin-13-hao-po-chan-chong-zheng-2025-30-hao.md)（上证发〔2025〕30号）
-- [《上市公司重大资产重组管理办法》](shang-shi-gong-si-zhong-da-zi-chan-zhong-zu-guan-li-ban-fa-2020-166-hao.md)（证监会令第166号）
+- [《上市公司监管指引第11号——上市公司破产重整相关事项》](shang-shi-gong-si-jian-guan-zhi-yin-11-hao-po-chan-chong-zheng-2025-2-hao.md)（证监会公告〔2025〕2 号）
+- [《上海证券交易所上市公司自律监管指引第13号——破产重整等事项（2025年修订）》](shang-jiao-suo-shang-shi-gong-si-zi-lu-jian-guan-zhi-yin-13-hao-po-chan-chong-zheng-2025-30-hao.md)（上证发〔2025〕30 号）
+- [《上市公司重大资产重组管理办法》](shang-shi-gong-si-zhong-da-zi-chan-zhong-zu-guan-li-ban-fa-2020-166-hao.md)（证监会令第 166 号）

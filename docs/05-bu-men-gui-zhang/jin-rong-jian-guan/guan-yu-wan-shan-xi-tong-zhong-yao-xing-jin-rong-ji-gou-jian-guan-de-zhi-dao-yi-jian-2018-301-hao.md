@@ -8,10 +8,10 @@ author: "中国人民银行、银保监会、证监会"
 
 # 关于完善系统重要性金融机构监管的指导意见
 
-**文号**：银发〔2018〕301号  
-**发布机关**：中国人民银行、中国银行保险监督管理委员会、中国证券监督管理委员会  
-**发布日期**：2018年11月26日  
-**施行日期**：2018年11月26日  
+**文号**：银发〔2018〕301 号
+**发布机关**：中国人民银行、中国银行保险监督管理委员会、中国证券监督管理委员会
+**发布日期**：2018 年 11 月 26 日
+**施行日期**：2018 年 11 月 26 日
 **效力状态**：现行有效
 
 ---
@@ -175,7 +175,7 @@ author: "中国人民银行、银保监会、证监会"
 
 ## 关联文件
 
-- [《商业银行资本管理办法（试行）》](shang-ye-yin-hang-zi-ben-guan-li-ban-fa-2012-1-hao.md)（银监会令2012年第1号）
-- [《金融资产投资公司管理办法（试行）》](jin-rong-zi-chan-tou-zi-gong-si-guan-li-ban-fa-2018-4-hao.md)（银保监会令2018年第4号）
-- [《存款保险条例》](../../02-xing-zheng-fa-gui/cun-kuan-bao-xian-tiao-li.md)（国务院令第660号）
-- [《金融机构撤销条例》](../../02-xing-zheng-fa-gui/jin-rong-ji-gou-che-xiao-tiao-li.md)（国务院令第324号）
+- [《商业银行资本管理办法（试行）》](shang-ye-yin-hang-zi-ben-guan-li-ban-fa-2012-1-hao.md)（银监会令 2012 年第 1 号）
+- [《金融资产投资公司管理办法（试行）》](jin-rong-zi-chan-tou-zi-gong-si-guan-li-ban-fa-2018-4-hao.md)（银保监会令 2018 年第 4 号）
+- [《存款保险条例》](../../02-xing-zheng-fa-gui/cun-kuan-bao-xian-tiao-li.md)（国务院令第 660 号）
+- [《金融机构撤销条例》](../../02-xing-zheng-fa-gui/jin-rong-ji-gou-che-xiao-tiao-li.md)（国务院令第 324 号）

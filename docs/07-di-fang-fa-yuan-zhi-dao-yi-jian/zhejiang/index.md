@@ -14,7 +14,7 @@ author: "知识库维护团队"
 
 | 文件名称 | 发布机关 | 文号 | 发布日期 | 主要内容 |
 |----------|----------|------|----------|----------|
-| [浙江省高级人民法院关于优化营商环境办理破产便利化行动方案的通知](zhe-jiang-gao-yuan-you-hua-ying-shang-huan-jing-ban-li-po-chan-bian-li-hua-xing-dong-fang-an-2019-139-hao.md) | 浙江省高级人民法院 | 浙高法〔2019〕139号 | 2019年 | 破产便利化改革、提升办理效率、优化营商环境等 |
+| [浙江省高级人民法院关于优化营商环境办理破产便利化行动方案的通知](zhe-jiang-gao-yuan-you-hua-ying-shang-huan-jing-ban-li-po-chan-bian-li-hua-xing-dong-fang-an-2019-139-hao.md) | 浙江省高级人民法院 | 浙高法〔2019〕139 号 | 2019 年 | 破产便利化改革、提升办理效率、优化营商环境等 |
 
 ## 内容说明
 

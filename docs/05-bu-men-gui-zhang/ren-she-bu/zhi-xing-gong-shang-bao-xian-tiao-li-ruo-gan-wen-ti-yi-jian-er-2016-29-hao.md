@@ -8,10 +8,10 @@ author: "人力资源社会保障部"
 
 # 关于执行《工伤保险条例》若干问题的意见（二）
 
-**文号**：人社部发〔2016〕29号  
-**发布机关**：人力资源社会保障部  
-**发布日期**：2016年3月28日  
-**施行日期**：2016年3月28日  
+**文号**：人社部发〔2016〕29 号
+**发布机关**：人力资源社会保障部
+**发布日期**：2016 年 3 月 28 日
+**施行日期**：2016 年 3 月 28 日
 **效力状态**：现行有效
 
 ---
@@ -170,6 +170,6 @@ author: "人力资源社会保障部"
 
 ## 关联文件
 
-- [《关于破产企业职工工伤保险有关问题处理意见的通知》](si-chuan-po-chan-qi-ye-zhi-gong-gong-shang-bao-xian-2006-31-hao.md)（川劳社办〔2006〕31号）
-- [《关于实施就业新起点计划试点工作的通知》](jiu-ye-xin-qi-dian-ji-hua-shi-dian-gong-zuo-2006-30-hao.md)（劳社部发〔2006〕30号）
-- [《关于进一步做好关闭破产企业职工安置工作有关问题的通知》](guan-yu-jin-yi-bu-zuo-hao-guan-bi-po-chan-qi-ye-zhi-gong-an-zhi-gong-zuo-2007-70-hao.md)（川劳社办〔2007〕70号）
+- [《关于破产企业职工工伤保险有关问题处理意见的通知》](si-chuan-po-chan-qi-ye-zhi-gong-gong-shang-bao-xian-2006-31-hao.md)（川劳社办〔2006〕31 号）
+- [《关于实施就业新起点计划试点工作的通知》](jiu-ye-xin-qi-dian-ji-hua-shi-dian-gong-zuo-2006-30-hao.md)（劳社部发〔2006〕30 号）
+- [《关于进一步做好关闭破产企业职工安置工作有关问题的通知》](guan-yu-jin-yi-bu-zuo-hao-guan-bi-po-chan-qi-ye-zhi-gong-an-zhi-gong-zuo-2007-70-hao.md)（川劳社办〔2007〕70 号）

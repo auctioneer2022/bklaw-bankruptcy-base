@@ -8,14 +8,14 @@
 
 | 文件名称 | 发文机关 | 发布日期 |
 |----------|----------|----------|
-| [中华全国律师协会律师担任破产管理人业务操作指引](quan-guo-lv-shi-xie-hui-po-chan-guan-li-ren-ye-wu-cao-zuo-zhi-yin.md) | 中华全国律师协会 | 2013年 |
-| [中国注册会计师协会注册会计师承办企业破产案件相关业务指南（试行）](zhu-ce-hui-ji-shi-cheng-ban-po-chan-an-jian-xiang-guan-ye-wu-zhi-nan.md) | 中国注册会计师协会 | 2008年2月1日 |
+| [中华全国律师协会律师担任破产管理人业务操作指引](quan-guo-lv-shi-xie-hui-po-chan-guan-li-ren-ye-wu-cao-zuo-zhi-yin.md) | 中华全国律师协会 | 2013 年 |
+| [中国注册会计师协会注册会计师承办企业破产案件相关业务指南（试行）](zhu-ce-hui-ji-shi-cheng-ban-po-chan-an-jian-xiang-guan-ye-wu-zhi-nan.md) | 中国注册会计师协会 | 2008 年 2 月 1 日 |
 
 ## 地方性管理人协会规范
 
 | 文件名称 | 发文机关 | 发布日期 |
 |----------|----------|----------|
-| [深圳市破产管理人协会破产程序中合同清理操作指引（试行）](shen-zhen-shi-po-chan-guan-li-ren-xie-hui-po-chan-cheng-xu-zhong-he-tong-qing-li-cao-zuo-zhi-yin.md) | 深圳市破产管理人协会 | 2024年11月21日 |
+| [深圳市破产管理人协会破产程序中合同清理操作指引（试行）](shen-zhen-shi-po-chan-guan-li-ren-xie-hui-po-chan-cheng-xu-zhong-he-tong-qing-li-cao-zuo-zhi-yin.md) | 深圳市破产管理人协会 | 2024 年 11 月 21 日 |
 
 ## 更新记录
 
