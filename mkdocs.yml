@@ -1,0 +1,323 @@
+site_name: 破产法律知识库
+site_url: https://auctioneer2022.github.io/bankruptcy-knowledge-base/
+site_description: 全面系统的破产法律知识库，涵盖法律法规、司法解释、典型案例、实务指南等内容
+site_author: auctioneer2022
+copyright: Copyright &copy; 2025 auctioneer2022
+
+strict: true
+
+theme:
+  name: material
+  language: zh
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: 切换至深色模式
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: 切换至浅色模式
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.code.copy
+
+plugins:
+  - search:
+      lang:
+        - zh
+        - en
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/auctioneer2022
+
+nav:
+  - 首页: index.md
+  - 一、法律:
+    - 概述: 01-fa-lv/index.md
+    - 企业破产法: 01-fa-lv/qi-ye-po-chan-fa.md
+    - 公司法: 01-fa-lv/gong-si-fa.md
+    - 民事诉讼法: 01-fa-lv/min-shi-su-song-fa.md
+    - 民法典: 01-fa-lv/min-fa-dian.md
+    - 其他法律中的破产相关条款:
+      - 概述: 01-fa-lv/qi-ta-fa-lv/index.md
+      - 商业银行法: 01-fa-lv/qi-ta-fa-lv/shang-ye-yin-hang-fa.md
+      - 保险法: 01-fa-lv/qi-ta-fa-lv/bao-xian-fa.md
+      - 证券法: 01-fa-lv/qi-ta-fa-lv/zheng-quan-fa.md
+      - 农民专业合作社法: 01-fa-lv/qi-ta-fa-lv/nong-min-zhuan-ye-he-zuo-she-fa.md
+      - 合伙企业法: 01-fa-lv/qi-ta-fa-lv/he-huo-qi-ye-fa.md
+      - 个人独资企业法: 01-fa-lv/qi-ta-fa-lv/ge-ren-du-zi-qi-ye-fa.md
+      - 劳动合同法: 01-fa-lv/qi-ta-fa-lv/lao-dong-he-tong-fa.md
+      - 税收征收管理法: 01-fa-lv/qi-ta-fa-lv/shui-shou-zheng-shou-guan-li-fa.md
+      - 刑法: 01-fa-lv/qi-ta-fa-lv/xing-fa.md
+      - 土地管理法: 01-fa-lv/qi-ta-fa-lv/tu-di-guan-li-fa.md
+      - 城市房地产管理法: 01-fa-lv/qi-ta-fa-lv/cheng-shi-fang-di-chan-guan-li-fa.md
+      - 环境保护法: 01-fa-lv/qi-ta-fa-lv/huan-jing-bao-hu-fa.md
+      - 社会保险法: 01-fa-lv/qi-ta-fa-lv/she-hui-bao-xian-fa.md
+  - 二、行政法规:
+    - 概述: 02-xing-zheng-fa-gui/index.md
+    - 金融机构撤销条例: 02-xing-zheng-fa-gui/jin-rong-ji-gou-che-xiao-tiao-li.md
+    - 存款保险条例: 02-xing-zheng-fa-gui/cun-kuan-bao-xian-tiao-li.md
+    - 中华人民共和国市场主体登记管理条例: 02-xing-zheng-fa-gui/shi-chang-zhu-ti-deng-ji-guan-li-tiao-li.md
+    - 优化营商环境条例: 02-xing-zheng-fa-gui/you-hua-ying-shang-huan-jing-tiao-li.md
+    - 企业信息公示暂行条例: 02-xing-zheng-fa-gui/qi-ye-xin-xi-gong-shi-zan-xing-tiao-li.md
+    - 国有企业政策性破产（已废止）:
+      - 关于进一步做好国有企业政策性关闭破产工作的意见: 02-xing-zheng-fa-gui/guo-wu-yuan-guan-yu-guo-you-qi-ye-zheng-ce-xing-guan-bi-po-chan-2006-3-hao.md
+      - 关于在若干城市试行国有企业破产有关问题的通知: 02-xing-zheng-fa-gui/guo-wu-yuan-guan-yu-guo-you-qi-ye-po-chan-1994-59-hao.md
+      - 关于在若干城市试行国有企业兼并破产和职工再就业有关问题的补充通知: 02-xing-zheng-fa-gui/guo-wu-yuan-guan-yu-guo-you-qi-ye-jian-bing-po-chan-1997-10-hao.md
+  - 三、司法解释:
+    - 概述: 03-si-fa-jie-shi/index.md
+    - 体系性司法解释:
+      - 概述: 03-si-fa-jie-shi/ti-xi-xing-jie-shi/index.md
+      - 最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（二）: 03-si-fa-jie-shi/ti-xi-xing-jie-shi/gong-si-fa-jie-shi-er.md
+      - 最高人民法院关于适用《中华人民共和国民法典》有关担保制度的解释: 03-si-fa-jie-shi/ti-xi-xing-jie-shi/min-fa-dian-dan-bao-zhi-du-jie-shi.md
+      - 民事案件案由规定: 03-si-fa-jie-shi/ti-xi-xing-jie-shi/min-shi-an-you-gui-ding.md
+      - 最高人民法院关于适用《中华人民共和国民事诉讼法》的解释: 03-si-fa-jie-shi/ti-xi-xing-jie-shi/min-su-fa-jie-shi.md
+      - 最高人民法院关于适用《中华人民共和国企业破产法》若干问题的规定（二）: 03-si-fa-jie-shi/ti-xi-xing-jie-shi/po-chan-fa-ruo-gan-wen-ti-gui-ding-er.md
+      - 最高人民法院关于适用《中华人民共和国企业破产法》若干问题的规定（三）: 03-si-fa-jie-shi/ti-xi-xing-jie-shi/po-chan-fa-ruo-gan-wen-ti-gui-ding-san.md
+      - 最高人民法院关于适用《中华人民共和国企业破产法》若干问题的规定（一）: 03-si-fa-jie-shi/ti-xi-xing-jie-shi/po-chan-fa-ruo-gan-wen-ti-gui-ding-yi.md
+      - 最高人民法院关于审理企业破产案件若干问题的规定: 03-si-fa-jie-shi/ti-xi-xing-jie-shi/shen-po-an-jian-ruo-gan-wen-ti.md
+    - 专项司法解释:
+      - 概述: 03-si-fa-jie-shi/zhuan-xiang-jie-shi/index.md
+      - 最高人民法院关于人民法院民事执行中拍卖、变卖财产的规定: 03-si-fa-jie-shi/zhuan-xiang-jie-shi/min-shi-zhi-xing-pai-mai-bian-mai-gui-ding.md
+      - 最高人民法院关于人民法院强制执行股权若干问题的规定: 03-si-fa-jie-shi/zhuan-xiang-jie-shi/qiang-zhi-zhi-xing-gu-quan-ruo-gan-wen-ti-gui-ding.md
+      - 最高人民法院关于人民法院确定财产处置参考价若干问题的规定: 03-si-fa-jie-shi/zhuan-xiang-jie-shi/que-ding-cai-chan-chu-zhi-can-kao-jia-gui-ding.md
+      - 最高人民法院关于审理企业破产案件确定管理人报酬的规定: 03-si-fa-jie-shi/zhuan-xiang-jie-shi/que-ding-guan-li-ren-bao-chou-gui-ding.md
+      - 最高人民法院关于商品房消费者权利保护问题的批复: 03-si-fa-jie-shi/zhuan-xiang-jie-shi/shang-pin-fang-xiao-fei-zhe-quan-li.md
+      - 最高人民法院关于人民法院司法拍卖房产竞买人资格若干问题的规定: 03-si-fa-jie-shi/zhuan-xiang-jie-shi/si-fa-pai-mai-fang-chan-jing-mai-ren-zi-ge-gui-ding.md
+      - 最高人民法院关于人民法院网络司法拍卖若干问题的规定: 03-si-fa-jie-shi/zhuan-xiang-jie-shi/wang-luo-si-fa-pai-mai-ruo-gan-wen-ti-gui-ding.md
+      - 最高人民法院关于审理企业破产案件指定管理人的规定: 03-si-fa-jie-shi/zhuan-xiang-jie-shi/zhi-ding-guan-li-ren-gui-ding.md
+      - 最高人民法院关于人民法院办理执行异议和复议案件若干问题的规定: 03-si-fa-jie-shi/zhuan-xiang-jie-shi/zhi-xing-yi-yi-he-fu-yi-gui-ding.md
+      - 最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释: 03-si-fa-jie-shi/zhuan-xiang-jie-shi/shen-li-fei-fa-ji-zi-xing-shi-an-jian-2010-18-hao.md
+      - 最高人民法院关于审理拒不执行判决、裁定刑事案件适用法律若干问题的解释: 03-si-fa-jie-shi/zhuan-xiang-jie-shi/ju-bu-zhi-xing-pan-jue-cai-ding-xing-shi-an-jian-2015-16-hao.md
+    - 批复与答复:
+      - 概述: 03-si-fa-jie-shi/pi-fu-yu-da-fu/index.md
+      - 最高人民法院关于个人独资企业清算是否可以参照适用企业破产法规定的破产清算程序的批复: 03-si-fa-jie-shi/pi-fu-yu-da-fu/ge-ren-du-zi-qi-ye-can-zhao-po-chan.md
+      - 最高人民法院关于破产企业国有划拨土地使用权应否列入破产财产等问题的批复: 03-si-fa-jie-shi/pi-fu-yu-da-fu/hua-bo-tu-di-shi-yong-quan-po-chan-cai-chan.md
+      - 关于对因资不抵债无法继续办学被终止的民办学校如何组织清算问题的批复: 03-si-fa-jie-shi/pi-fu-yu-da-fu/min-ban-xue-xiao-zi-bu-di-dai-zu-zhi-qing-suan-2010-20-hao.md
+      - 最高人民法院关于《中华人民共和国企业破产法》施行时尚未审结的企业破产案件适用法律若干问题的规定: 03-si-fa-jie-shi/pi-fu-yu-da-fu/po-chan-fa-shi-xing-wei-shen-jie-an-jian.md
+      - 最高人民法院关于实行社会保险的企业破产后各种社会保险统筹费用应缴纳至何时问题的批复: 03-si-fa-jie-shi/pi-fu-yu-da-fu/she-bao-tong-chou-fei-yong.md
+      - 最高人民法院关于税务机关就破产企业欠缴税款产生的滞纳金提起的债权确认之诉应否受理问题的批复: 03-si-fa-jie-shi/pi-fu-yu-da-fu/shui-wu-ji-na-jin-zai-quan.md
+      - 最高人民法院关于债权人对人员下落不明或者财产状况不清的债务人申请破产清算案件如何处理的批复: 03-si-fa-jie-shi/pi-fu-yu-da-fu/xia-luo-bu-ming-po-chan.md
+      - 关于企业离退休人员的养老保险统筹金应当列入破产财产分配方案问题的批复: 03-si-fa-jie-shi/pi-fu-yu-da-fu/yang-lao-bao-xian-tong-chou-jin-po-chan-cai-chan-fen-pei-2002-12-hao.md
+      - 最高人民法院关于对重庆高院《关于破产申请受理前已经划扣到执行法院账户尚未支付给申请执行人的款项是否属于债务人财产及执行法院收到破产管理人中止执行告知函后应否中止执行问题的请示》的答复函: 03-si-fa-jie-shi/pi-fu-yu-da-fu/zhi-xing-zhang-hu-kuan-xiang-shu-fu-wen.md
+  - 四、最高院司法文件:
+    - 概述: 04-zui-gao-fa-yuan-si-fa-wen-jian/index.md
+    - 会议纪要:
+      - 概述: 04-zui-gao-fa-yuan-si-fa-wen-jian/hui-yi-ji-yao/index.md
+      - 最高人民法院关于审理公司强制清算案件工作座谈会纪要: 04-zui-gao-fa-yuan-si-fa-wen-jian/hui-yi-ji-yao/gong-si-qiang-zhi-qing-suan-zuo-tan-hui-ji-yao.md
+      - 《全国法院民商事审判工作会议纪要》（九民纪要）破产纠纷案件审理部分: 04-zui-gao-fa-yuan-si-fa-wen-jian/hui-yi-ji-yao/jiu-min-ji-yao-po-chan-bu-fen.md
+      - 全国法院破产审判工作会议纪要: 04-zui-gao-fa-yuan-si-fa-wen-jian/hui-yi-ji-yao/po-chan-shen-pan-hui-yi-ji-yao.md
+      - 最高人民法院印发《关于审理上市公司破产重整案件工作座谈会纪要》的通知: 04-zui-gao-fa-yuan-si-fa-wen-jian/hui-yi-ji-yao/shang-shi-gong-si-po-chan-chong-zheng-zuo-tan-hui-ji-yao.md
+    - 意见与规定:
+      - 概述: 04-zui-gao-fa-yuan-si-fa-wen-jian/yi-jian-yu-gui-ding/index.md
+      - 最高人民法院关于为改善营商环境提供司法保障的若干意见: 04-zui-gao-fa-yuan-si-fa-wen-jian/yi-jian-yu-gui-ding/gai-shan-ying-shang-huan-jing.md
+      - 最高人民法院关于在执行工作中进一步强化善意文明执行理念的意见: 04-zui-gao-fa-yuan-si-fa-wen-jian/yi-jian-yu-gui-ding/shan-yi-wen-ming-zhi-xing-yi-jian.md
+      - 最高人民法院印发《关于推进破产案件依法高效审理的意见》的通知: 04-zui-gao-fa-yuan-si-fa-wen-jian/yi-jian-yu-gui-ding/tui-jin-po-chan-an-jian-yi-fa-gao-xiao-shen-li-yi-jian.md
+      - 最高人民法院关于执行案件移送破产审查若干问题的指导意见: 04-zui-gao-fa-yuan-si-fa-wen-jian/yi-jian-yu-gui-ding/zhi-xing-yi-song-po-chan-shen-cha.md
+    - 专项规定:
+      - 概述: 04-zui-gao-fa-yuan-si-fa-wen-jian/zhuan-xiang-gui-ding/index.md
+      - 最高人民法院关于破产案件立案受理有关问题的通知: 04-zui-gao-fa-yuan-si-fa-wen-jian/zhuan-xiang-gui-ding/po-chan-an-jian-li-an-shou-li-tong-zhi.md
+      - 最高人民法院印发《关于进一步做好全国企业破产重整案件信息网推广应用工作的办法》的通知: 04-zui-gao-fa-yuan-si-fa-wen-jian/zhuan-xiang-gui-ding/po-chan-chong-zheng-an-jian-xin-xi-wang-tui-guang-ying-yong-gong-zuo-ban-fa.md
+      - 最高人民法院印发《关于企业破产案件信息公开的规定（试行）》的通知: 04-zui-gao-fa-yuan-si-fa-wen-jian/zhuan-xiang-gui-ding/qi-ye-po-chan-an-jian-xin-xi-gong-kai-gui-ding.md
+      - 关于调整强制清算与破产案件类型划分的通知: 04-zui-gao-fa-yuan-si-fa-wen-jian/zhuan-xiang-gui-ding/tiao-zheng-qiang-zhi-qing-suan-yu-po-chan-an-jian-lei-xing-hua-fen-2016-237-hao.md
+    - 通知:
+      - 概述: 04-zui-gao-fa-yuan-si-fa-wen-jian/tong-zhi/index.md
+      - 最高人民法院关于认真做好网络司法拍卖与网络司法变卖衔接工作的通知: 04-zui-gao-fa-yuan-si-fa-wen-jian/tong-zhi/wang-luo-si-fa-pai-mai-yu-bian-mai-xian-jie-gong-zuo-tong-zhi.md
+  - 五、部门规章:
+    - 概述: 05-bu-men-gui-zhang/index.md
+    - 财政税务:
+      - 概述: 05-bu-men-gui-zhang/cai-zheng-shui-wu/index.md
+      - 企业破产清算有关会计处理规定: 05-bu-men-gui-zhang/cai-zheng-shui-wu/qi-ye-po-chan-qing-suan-hui-ji-chu-li-gui-ding.md
+      - 关于深化'放管服'改革更大力度推进优化税务注销办理程序工作的通知: 05-bu-men-gui-zhang/cai-zheng-shui-wu/shen-hua-fang-guan-fu-shui-wu-zhu-xiao-2019-64-hao.md
+      - 国家税务总局 自然资源部关于进一步深化信息共享便利不动产登记和办税的通知: 05-bu-men-gui-zhang/cai-zheng-shui-wu/shen-hua-xin-xi-gong-xiang-bu-dong-chan-deng-ji-ban-shui-2022-1-hao.md
+      - 中华人民共和国税收征收管理法实施细则: 05-bu-men-gui-zhang/cai-zheng-shui-wu/shui-shou-zheng-shou-guan-li-fa-shi-shi-xi-ze.md
+      - 中华人民共和国税收征收管理法: 05-bu-men-gui-zhang/cai-zheng-shui-wu/shui-shou-zheng-shou-guan-li-fa.md
+      - 国家税务总局关于进一步优化办理企业税务注销程序的通知: 05-bu-men-gui-zhang/cai-zheng-shui-wu/shui-wu-zhu-xiao-you-hua-ban-li-2018-149-hao.md
+      - 国家税务总局关于税收征管若干事项的公告: 05-bu-men-gui-zhang/cai-zheng-shui-wu/shui-wu-zong-ju-gong-gao-2019-48-hao.md
+      - 国家税务总局 最高人民法院关于企业破产程序中若干税费征管事项的公告: 05-bu-men-gui-zhang/cai-zheng-shui-wu/shui-wu-zui-gao-yuan-po-chan-cheng-xu-shui-fei-zheng-guan-2025-24-hao.md
+      - 关于企业重组业务企业所得税处理若干问题的通知: 05-bu-men-gui-zhang/cai-zheng-shui-wu/qi-ye-zhong-zu-ye-wu-qi-ye-suo-de-shui-chu-li-2009-59-hao.md
+      - 关于继续实施企业改制重组有关土地增值税政策的公告: 05-bu-men-gui-zhang/cai-zheng-shui-wu/qi-ye-gai-zhi-zhong-zu-tu-di-zeng-zhi-shui-2021-21-hao.md
+      - 关于促进企业重组有关企业所得税处理问题的通知: 05-bu-men-gui-zhang/cai-zheng-shui-wu/qi-ye-zhong-zu-ye-wu-qi-ye-suo-de-shui-chu-li-2014-109-hao.md
+      - 关于发布《企业重组业务企业所得税管理办法》的公告: 05-bu-men-gui-zhang/cai-zheng-shui-wu/qi-ye-zhong-zu-ye-wu-qi-ye-suo-de-shui-guan-li-ban-fa-2010-4-hao.md
+      - 关于企业破产有关企业所得税处理问题的公告: 05-bu-men-gui-zhang/cai-zheng-shui-wu/qi-ye-po-chan-you-guan-qi-ye-suo-de-shui-chu-li-2011-25-hao.md
+    - 人社部:
+      - 概述: 05-bu-men-gui-zhang/ren-she-bu/index.md
+      - 关于破产企业职工工伤保险有关问题处理意见的通知: 05-bu-men-gui-zhang/ren-she-bu/si-chuan-po-chan-qi-ye-zhi-gong-gong-shang-bao-xian-2006-31-hao.md
+      - 关于实施就业新起点计划试点工作的通知: 05-bu-men-gui-zhang/ren-she-bu/jiu-ye-xin-qi-dian-ji-hua-shi-dian-gong-zuo-2006-30-hao.md
+      - 关于进一步做好关闭破产企业职工安置工作有关问题的通知: 05-bu-men-gui-zhang/ren-she-bu/guan-yu-jin-yi-bu-zuo-hao-guan-bi-po-chan-qi-ye-zhi-gong-an-zhi-gong-zuo-2007-70-hao.md
+      - 关于执行《工伤保险条例》若干问题的意见（二）: 05-bu-men-gui-zhang/ren-she-bu/zhi-xing-gong-shang-bao-xian-tiao-li-ruo-gan-wen-ti-yi-jian-er-2016-29-hao.md
+    - 中国证监会:
+      - 概述: 05-bu-men-gui-zhang/zheng-jian-hui/index.md
+      - 上市公司监管指引第11号——上市公司破产重整相关事项: 05-bu-men-gui-zhang/zheng-jian-hui/shang-shi-gong-si-jian-guan-zhi-yin-11-hao-po-chan-chong-zheng-2025-2-hao.md
+      - 上海证券交易所上市公司自律监管指引第13号——破产重整等事项（2025年修订）: 05-bu-men-gui-zhang/zheng-jian-hui/shang-jiao-suo-shang-shi-gong-si-zi-lu-jian-guan-zhi-yin-13-hao-po-chan-chong-zheng-2025-30-hao.md
+      - 深圳证券交易所上市公司自律监管指引第14号——破产重整等事项（2025年修订）: 05-bu-men-gui-zhang/zheng-jian-hui/shen-jiao-suo-shang-shi-gong-si-zi-lu-jian-guan-zhi-yin-14-hao-po-chan-chong-zheng-2025-201-hao.md
+      - 上市公司重大资产重组管理办法: 05-bu-men-gui-zhang/zheng-jian-hui/shang-shi-gong-si-zhong-da-zi-chan-chong-zu-guan-li-ban-fa-2020-166-hao.md
+      - 关于破产重整上市公司重大资产重组股份发行定价的补充规定: 05-bu-men-gui-zhang/zheng-jian-hui/po-chan-chong-zheng-shang-shi-gong-si-zhong-da-zi-chan-chong-zu-gu-fen-fa-xing-ding-jia-2008-44-hao.md
+    - 金融监管部门:
+      - 概述: 05-bu-men-gui-zhang/jin-rong-jian-guan/index.md
+      - 商业银行资本管理办法（试行）: 05-bu-men-gui-zhang/jin-rong-jian-guan/shang-ye-yin-hang-zi-ben-guan-li-ban-fa-2012-1-hao.md
+      - 金融资产投资公司管理办法（试行）: 05-bu-men-gui-zhang/jin-rong-jian-guan/jin-rong-zi-chan-tou-zi-gong-si-guan-li-ban-fa-2018-4-hao.md
+      - 关于完善系统重要性金融机构监管的指导意见: 05-bu-men-gui-zhang/jin-rong-jian-guan/guan-yu-wan-shan-xi-tong-zhong-yao-xing-jin-rong-ji-gou-jian-guan-de-zhi-dao-yi-jian-2018-301-hao.md
+      - 金融机构客户尽职调查和客户身份资料及交易记录保存管理办法: 05-bu-men-gui-zhang/jin-rong-jian-guan/jin-rong-ji-gou-ke-hu-jin-zhi-diao-cha-he-ke-hu-shen-fen-zi-liao-ji-jiao-yi-ji-lu-bao-cun-guan-li-ban-fa-2025-11-hao.md
+    - 国务院国资委:
+      - 概述: 05-bu-men-gui-zhang/guo-zi-wei/index.md
+      - 企业国有资产交易操作规则: 05-bu-men-gui-zhang/guo-zi-wei/qi-ye-guo-you-zi-chan-jiao-yi-cao-zuo-gui-ze-2025-17-hao.md
+      - 企业国有资产交易监督管理办法: 05-bu-men-gui-zhang/guo-zi-wei/qi-ye-guo-you-zi-chan-jiao-yi-jian-du-guan-li-ban-fa-2016-32-hao.md
+    - 多部门联合:
+      - 概述: 05-bu-men-gui-zhang/duo-bu-men-lian-he/index.md
+      - jiang-shi-qi-ye-qu-chan-neng-qi-ye-zhai-wu-chu-zhi-2018-1756-hao: 05-bu-men-gui-zhang/duo-bu-men-lian-he/jiang-shi-qi-ye-qu-chan-neng-qi-ye-zhai-wu-chu-zhi-2018-1756-hao.md
+      - 关于推动和保障管理人在破产程序中依法履职进一步优化营商环境的意见: 05-bu-men-gui-zhang/duo-bu-men-lian-he/tui-dong-bao-zhang-guan-li-ren-yi-zhi-li-guan-li-ren-zhi-nan-2021-274-hao.md
+    - 市场监管:
+      - 概述: 05-bu-men-gui-zhang/shi-chang-jian-guan/index.md
+      - 企业注销指引（2025年修订）: 05-bu-men-gui-zhang/shi-chang-jian-guan/qi-ye-zhu-xiao-zhi-yin-2025-52-hao.md
+      - 市场主体登记管理条例实施细则: 05-bu-men-gui-zhang/shi-chang-jian-guan/shi-chang-zhu-ti-deng-ji-guan-li-tiao-li-shi-shi-xi-ze-2022-52-hao.md
+      - 企业注销指引（2021年修订）: 05-bu-men-gui-zhang/shi-chang-jian-guan/qi-ye-zhu-xiao-zhi-yin-2021-48-hao.md
+      - 工商总局关于全面推进企业简易注销登记改革的指导意见: 05-bu-men-gui-zhang/shi-chang-jian-guan/jian-yi-zhu-xiao-deng-ji-gai-ge-2016-253-hao.md
+  - 六、地方法规:
+    - 概述: 06-di-fang-fa-gui/index.md
+    - 个人破产试点规定:
+      - 概述: 06-di-fang-fa-gui/ge-ren-po-chan-shi-dian/index.md
+      - 深圳经济特区个人破产条例: 06-di-fang-fa-gui/ge-ren-po-chan-shi-dian/shen-zhen-jing-ji-te-qu-ge-ren-po-chan-tiao-li.md
+      - 浙江法院个人债务集中清理（类个人破产）工作指引（试行）: 06-di-fang-fa-gui/ge-ren-po-chan-shi-dian/zhe-jiang-fa-yuan-ge-ren-zhai-wu-ji-zhong-qing-li-gong-zuo-zhi-yin.md
+      - 温州市中级人民法院关于个人债务集中清理的实施意见（试行）: 06-di-fang-fa-gui/ge-ren-po-chan-shi-dian/wen-zhou-shi-zhong-ji-ren-min-fa-yuan-ge-ren-zhai-wu-ji-zhong-qing-li-shi-shi-yi-jian.md
+      - 江苏省高级人民法院关于开展"与个人破产制度功能相当试点"工作中若干问题解答: 06-di-fang-fa-gui/ge-ren-po-chan-shi-dian/jiang-su-gao-yuan-lei-ge-ren-po-chan-shi-dian-wen-ti-jie-da.md
+      - 东营市中级人民法院关于个人债务清理的实施意见（试行）: 06-di-fang-fa-gui/ge-ren-po-chan-shi-dian/dong-ying-shi-zhong-ji-ren-min-fa-yuan-ge-ren-zhai-wu-qing-li-shi-shi-yi-jian.md
+    - 其他地方性法规:
+      - 其他地方性法规（府院联动机制）: 06-di-fang-fa-gui/qi-ta-di-fang-fa-gui.md
+  - 七、法院指导意见:
+    - 概述: 07-di-fang-fa-yuan-zhi-dao-yi-jian/index.md
+    - 上海:
+      - 概述: 07-di-fang-fa-yuan-zhi-dao-yi-jian/shanghai/index.md
+      - 上海市高级人民法院破产审判工作规范指引（试行）: 07-di-fang-fa-yuan-zhi-dao-yi-jian/shanghai/shanghai-gao-yuan-po-chan-shen-li-gong-zuo-gui-fan-zhi-yin-2018-9-hao.md
+      - 上海市高级人民法院关于简化程序加快推进破产案件审理的办案指引: 07-di-fang-fa-yuan-zhi-dao-yi-jian/shanghai/shanghai-gao-yuan-jian-hua-cheng-xu-jia-kuai-tui-jin-po-chan-an-jian-ban-an-zhi-yin-2018-167-hao.md
+      - 上海市高级人民法院执行转破产工作的规范指引（2022年版）: 07-di-fang-fa-yuan-zhi-dao-yi-jian/shanghai/shanghai-gao-yuan-zhi-xing-zhuan-po-chan-gong-zuo-gui-fan-zhi-yin-2022-211-hao.md
+    - 北京:
+      - 概述: 07-di-fang-fa-yuan-zhi-dao-yi-jian/beijing/index.md
+      - 北京市高级人民法院企业破产案件审理规程: 07-di-fang-fa-yuan-zhi-dao-yi-jian/beijing/bei-jing-gao-yuan-qi-ye-po-chan-an-jian-shen-li-gui-cheng-2013-242-hao.md
+    - 江苏:
+      - 概述: 07-di-fang-fa-yuan-zhi-dao-yi-jian/jiangsu/index.md
+      - 江苏省高级人民法院破产案件审理指南（修订版）: 07-di-fang-fa-yuan-zhi-dao-yi-jian/jiangsu/jiang-su-gao-yuan-po-chan-an-jian-shen-li-zhi-nan-xiu-ding-ban-2017-794-hao.md
+    - 浙江:
+      - 概述: 07-di-fang-fa-yuan-zhi-dao-yi-jian/zhejiang/index.md
+      - 浙江省高级人民法院关于优化营商环境办理破产便利化行动方案的通知: 07-di-fang-fa-yuan-zhi-dao-yi-jian/zhejiang/zhe-jiang-gao-yuan-you-hua-ying-shang-huan-jing-ban-li-po-chan-bian-li-hua-xing-dong-fang-an-2019-139-hao.md
+    - 河北:
+      - 概述: 07-di-fang-fa-yuan-zhi-dao-yi-jian/hebei/index.md
+      - 河北省高级人民法院破产案件审理规程: 07-di-fang-fa-yuan-zhi-dao-yi-jian/hebei/he-bei-gao-yuan-po-chan-an-jian-shen-li-gui-cheng-2024.md
+    - 广东:
+      - 概述: 07-di-fang-fa-yuan-zhi-dao-yi-jian/guangdong/index.md
+      - 广东省高级人民法院关于审理企业破产案件若干问题的指引: 07-di-fang-fa-yuan-zhi-dao-yi-jian/guangdong/guang-dong-gao-yuan-shen-li-qi-ye-po-chan-an-jian-ruo-gan-wen-ti-zhi-yin-2019-6-hao.md
+      - 广东省高级人民法院关于"僵尸企业"司法处置工作指引: 07-di-fang-fa-yuan-zhi-dao-yi-jian/guangdong/guang-dong-gao-yuan-jiang-shi-qi-ye-si-fa-chu-zhi-gong-zuo-zhi-yin-2019-5-hao.md
+      - 中山市人民法院破产审判单元企业破产案件审理规程（试行）: 07-di-fang-fa-yuan-zhi-dao-yi-jian/guangdong/zhong-shan-fa-yuan-po-chan-shen-li-dan-yuan-qi-ye-po-chan-an-jian-shen-li-gui-cheng-2021.md
+      - 云浮市中级人民法院破产案件审理规程（试行）: 07-di-fang-fa-yuan-zhi-dao-yi-jian/guangdong/yun-fu-zhong-yuan-po-chan-an-jian-shen-li-gui-cheng-2023-46-hao.md
+    - 山东:
+      - 概述: 07-di-fang-fa-yuan-zhi-dao-yi-jian/shandong/index.md
+      - 山东省高级人民法院企业破产案件审理规范指引（试行）: 07-di-fang-fa-yuan-zhi-dao-yi-jian/shandong/shan-dong-gao-yuan-qi-ye-po-chan-an-jian-shen-li-gui-fan-zhi-yin-2023.md
+    - 四川:
+      - 概述: 07-di-fang-fa-yuan-zhi-dao-yi-jian/si-chuan/index.md
+      - 成都市中级人民法院关于进一步规范财产保全工作的实施细则（试行）: 07-di-fang-fa-yuan-zhi-dao-yi-jian/si-chuan/cheng-du-zhong-yuan-cai-chan-bao-quan-shi-shi-xi-ze.md
+      - 成都市中级人民法院管理人报酬计取办法（试行）: 07-di-fang-fa-yuan-zhi-dao-yi-jian/si-chuan/cheng-du-zhong-yuan-guan-li-ren-bao-chou-ji-qu-ban-fa.md
+      - 成都市中级人民法院破产案件管理人工作规范（试行）: 07-di-fang-fa-yuan-zhi-dao-yi-jian/si-chuan/cheng-du-zhong-yuan-guan-li-ren-gong-zuo-gui-fan.md
+      - 成都市中级人民法院关于破产案件简化审理的指导意见（试行）: 07-di-fang-fa-yuan-zhi-dao-yi-jian/si-chuan/cheng-du-zhong-yuan-po-chan-jian-hua-shen-li.md
+      - 成都市中级人民法院破产案件预重整操作指引（试行）: 07-di-fang-fa-yuan-zhi-dao-yi-jian/si-chuan/cheng-du-zhong-yuan-yu-chong-zheng-cao-zuo-zhi-yin.md
+      - 四川省高级人民法院关于审理破产案件若干问题的解答: 07-di-fang-fa-yuan-zhi-dao-yi-jian/si-chuan/si-chuan-gao-yuan-po-chan-an-jian-jie-da.md
+      - 四川省高级人民法院民二庭关于推进破产案件加速审理工作办法: 07-di-fang-fa-yuan-zhi-dao-yi-jian/si-chuan/si-chuan-gao-yuan-tui-jin-po-chan-jia-su-shen-li-gong-zuo-ban-fa.md
+      - 四川省高级人民法院、国家税务总局四川省税务局关于进一步规范企业破产程序涉税事项处理的意见: 07-di-fang-fa-yuan-zhi-dao-yi-jian/si-chuan/si-chuan-jin-yi-bu-gui-fan-po-chan-she-shui-shi-xiang-chu-li-yi-jian.md
+      - 四川省高级人民法院 四川省市场监督管理局关于破产与强制清算企业办理注销登记的通知: 07-di-fang-fa-yuan-zhi-dao-yi-jian/si-chuan/si-chuan-po-chan-qiang-zhi-qing-suan-zhu-xiao-deng-ji-2022-224-hao.md
+      - 四川省高级人民法院、国家税务总局四川省税务局关于企业破产程序涉税问题处理的意见: 07-di-fang-fa-yuan-zhi-dao-yi-jian/si-chuan/si-chuan-po-chan-she-shui-wen-ti-chu-li-yi-jian.md
+      - 四川省高级人民法院执行案件移送破产审查工作指南: 07-di-fang-fa-yuan-zhi-dao-yi-jian/si-chuan/si-chuan-zhi-xing-yi-zhuan-po-gong-zuo-zhi-nan-2021-159-hao.md
+      - 四川天府新区成都片区人民法院、四川自由贸易试验区人民法院简单破产案件快速审理指引（试行）: 07-di-fang-fa-yuan-zhi-dao-yi-jian/si-chuan/tian-fu-xin-qu-jian-dan-po-chan-kuai-su-shen-li.md
+      - 四川天府新区成都片区人民法院、四川自由贸易试验区人民法院预重整案件审理指引（试行）: 07-di-fang-fa-yuan-zhi-dao-yi-jian/si-chuan/tian-fu-xin-qu-yu-chong-zheng-shen-li.md
+      - 四川省高级人民法院关于在委托鉴定、评估和拍卖中确定委托机构的若干规定: 07-di-fang-fa-yuan-zhi-dao-yi-jian/si-chuan/wei-tuo-jian-ding-ping-gu-pai-mai-ji-gou-gui-ding.md
+    - 其他中级人民法院文件:
+      - 概述: 07-di-fang-fa-yuan-zhi-dao-yi-jian/zhong-ji-fa-yuan/index.md
+      - 南京市中级人民法院关于推进破产案件繁简分流的实施意见: 07-di-fang-fa-yuan-zhi-dao-yi-jian/zhong-ji-fa-yuan/nan-jing-zhong-yuan-tui-jin-po-chan-an-jian-fan-jian-fen-liu-shi-shi-yi-jian-2017-3-hao.md
+      - 成都市中级人民法院关于破产案件简化审理的指导意见（试行）: 07-di-fang-fa-yuan-zhi-dao-yi-jian/zhong-ji-fa-yuan/cheng-du-zhong-yuan-po-chan-an-jian-jian-hua-shen-li-zhi-dao-yi-jian-2020-87-hao.md
+      - 武汉市中级人民法院破产案件管理人动态管理办法: 07-di-fang-fa-yuan-zhi-dao-yi-jian/zhong-ji-fa-yuan/wu-han-zhong-yuan-po-chan-an-jian-guan-li-ren-dong-tai-guan-li-ban-fa-2020.md
+      - 杭州市中级人民法院 杭州市市场监督管理局 关于破产程序中有关事项的司法协作意见（试行）: 07-di-fang-fa-yuan-zhi-dao-yi-jian/zhong-ji-fa-yuan/hang-zhou-zhong-yuan-po-chan-cheng-xu-zhong-you-guan-shi-xiang-si-fa-xie-zuo-yi-jian-2022-33-hao.md
+      - 武汉市中级人民法院关于预重整中债务人与主要债权人共同推荐选任临时管理人的工作指引: 07-di-fang-fa-yuan-zhi-dao-yi-jian/zhong-ji-fa-yuan/wu-han-zhong-yuan-yu-zhong-zheng-zhong-zhai-wu-ren-yu-zhu-yao-zhai-quan-ren-gong-tong-tui-jian-xuan-ren-lin-shi-guan-li-ren-gong-zuo-zhi-yin-2023.md
+      - 湖北省高级人民法院关于规范破产案件简化审理服务法治化营商环境的工作指引（试行）: 07-di-fang-fa-yuan-zhi-dao-yi-jian/zhong-ji-fa-yuan/hu-bei-gao-yuan-gui-fan-po-chan-an-jian-jian-hua-shen-li-fu-wu-fa-zhi-hua-ying-shang-huan-jing-gong-zuo-zhi-yin-2021.md
+  - 八、管理人规范:
+    - 概述: 08-po-chan-guan-li-ren-xie-hui/index.md
+    - 中华全国律师协会律师担任破产管理人业务操作指引: 08-po-chan-guan-li-ren-xie-hui/quan-guo-lv-shi-xie-hui-po-chan-guan-li-ren-ye-wu-cao-zuo-zhi-yin.md
+    - 中国注册会计师协会注册会计师承办企业破产案件相关业务指南（试行）: 08-po-chan-guan-li-ren-xie-hui/zhu-ce-hui-ji-shi-cheng-ban-po-chan-an-jian-xiang-guan-ye-wu-zhi-nan.md
+    - 深圳市破产管理人协会破产程序中合同清理操作指引（试行）: 08-po-chan-guan-li-ren-xie-hui/shen-zhen-shi-po-chan-guan-li-ren-xie-hui-po-chan-cheng-xu-zhong-he-tong-qing-li-cao-zuo-zhi-yin.md
+  - 九、典型案例:
+    - 概述: 09-dian-xing-an-li/index.md
+    - 指导案例:
+      - 概述: 09-dian-xing-an-li/zhi-dao-an-li/index.md
+      - 指导案例163号：江苏省纺织工业（集团）进出口有限公司及其五家子公司实质合并破产重整案: 09-dian-xing-an-li/zhi-dao-an-li/zhi-dao-an-li-163.md
+      - 指导案例164号：江苏苏醇酒业有限公司及关联公司实质合并破产重整案: 09-dian-xing-an-li/zhi-dao-an-li/zhi-dao-an-li-164.md
+      - 指导案例165号：重庆金江印染有限公司、重庆川江针纺有限公司破产管理人申请实质合并破产清算案: 09-dian-xing-an-li/zhi-dao-an-li/zhi-dao-an-li-165.md
+      - 指导案例214号：上海某某港实业有限公司破产清算转破产重整案: 09-dian-xing-an-li/zhi-dao-an-li/zhi-dao-an-li-214.md
+    - 最高院典型案例:
+      - 概述: 09-dian-xing-an-li/zui-gao-fa-yuan-dian-xing/index.md
+      - 浙江南方石化工业有限公司等三家公司破产清算案: 09-dian-xing-an-li/zui-gao-fa-yuan-dian-xing/an-li-2018-01.md
+      - 松晖实业（深圳）有限公司执行转破产清算案: 09-dian-xing-an-li/zui-gao-fa-yuan-dian-xing/an-li-2018-02.md
+      - 重庆钢铁股份有限公司破产重整案: 09-dian-xing-an-li/zui-gao-fa-yuan-dian-xing/an-li-2018-03.md
+      - 江苏省纺织工业（集团）进出口有限公司等六家公司破产重整案: 09-dian-xing-an-li/zui-gao-fa-yuan-dian-xing/an-li-2018-04.md
+      - 云南煤化工集团有限公司等五家公司破产重整案: 09-dian-xing-an-li/zui-gao-fa-yuan-dian-xing/an-li-2018-05.md
+      - 北京理工中兴科技股份有限公司破产重整案: 09-dian-xing-an-li/zui-gao-fa-yuan-dian-xing/an-li-2018-06.md
+      - 庄吉集团有限公司等四家公司破产重整案: 09-dian-xing-an-li/zui-gao-fa-yuan-dian-xing/an-li-2018-07.md
+      - 福建安溪铁观音集团股份有限公司及其关联企业破产重整案: 09-dian-xing-an-li/zui-gao-fa-yuan-dian-xing/an-li-2018-08.md
+      - 中顺汽车控股有限公司破产重整案: 09-dian-xing-an-li/zui-gao-fa-yuan-dian-xing/an-li-2018-09.md
+      - 桂林广维文华旅游文化产业有限公司破产重整案: 09-dian-xing-an-li/zui-gao-fa-yuan-dian-xing/an-li-2018-10.md
+    - 地方法院案例:
+      - 概述: 09-dian-xing-an-li/di-fang-an-li/index.md
+      - 长航凤凰股份有限公司破产重整案: 09-dian-xing-an-li/di-fang-an-li/an-li-2016-01.md
+      - 深圳中华自行车（集团）股份有限公司破产重整案: 09-dian-xing-an-li/di-fang-an-li/an-li-2016-02.md
+      - 浙江安吉同泰皮革有限公司执行转破产清算案: 09-dian-xing-an-li/di-fang-an-li/an-li-2016-03.md
+      - 中国第二重型机械集团公司与二重集团（德阳）重型装备股份有限公司破产重整案: 09-dian-xing-an-li/di-fang-an-li/an-li-2016-04.md
+      - 浙江玻璃股份有限公司及其关联公司合并破产案: 09-dian-xing-an-li/di-fang-an-li/an-li-2016-05.md
+      - 山东海龙股份有限公司破产重整案: 09-dian-xing-an-li/di-fang-an-li/an-li-2016-06.md
+      - 中核华原钛白股份有限公司破产重整案: 09-dian-xing-an-li/di-fang-an-li/an-li-2016-07.md
+      - 北京利达海洋生物馆有限公司破产清算案: 09-dian-xing-an-li/di-fang-an-li/an-li-2016-08.md
+      - 上海超日太阳能科技股份有限公司破产重整案: 09-dian-xing-an-li/di-fang-an-li/an-li-2016-09.md
+      - 无锡尚德太阳能电力有限公司破产重整案: 09-dian-xing-an-li/di-fang-an-li/an-li-2016-10.md
+  - 十、实务指南:
+    - 概述: 10-shi-wu-zhi-nan/index.md
+    - 程序操作:
+      - 破产受理后限制高消费措施的解除: 10-shi-wu-zhi-nan/cheng-xu-cao-zuo/po-chan-shou-li-hou-xian-zhi-gao-xiao-fei-cuo-shi-jie-chu.md
+      - 以物抵债裁定与破产受理裁定时间冲突的效力认定: 10-shi-wu-zhi-nan/cheng-xu-cao-zuo/yi-wu-di-zhai-cai-ding-yu-po-chan-shou-li-shi-jian-chong-tu.md
+    - 实体问题:
+      - 涉案财产与破产财产的区分及刑事追赃债权清偿顺位: 10-shi-wu-zhi-nan/shi-ti-wen-ti/she-an-cai-chan-yu-po-chan-cai-chan-qu-fen-ji-xing-shi-zhui-zang-qing-chang-shun-wei.md
+      - 小微民营企业破产重整中保留原股东权益: 10-shi-wu-zhi-nan/shi-ti-wen-ti/xiao-wei-min-ying-qi-ye-po-chan-zhong-zheng-bao-liu-chu-yuan-gu-dong-quan-yi.md
+      - 破产受理前立案的诉讼费用定性: 10-shi-wu-zhi-nan/shi-ti-wen-ti/po-chan-shou-li-qian-li-an-su-song-fei-yong-ding-xing.md
+  - 十一、文书模板:
+    - 概述: 11-wen-shu-mo-ban/index.md
+  - 十二、刑民交叉:
+    - 概述: 12-xing-min-jiao-cha/index.md
+    - 破产犯罪:
+      - 《刑法》第162条：妨害清算罪: 12-xing-min-jiao-cha/xing-fa-di-162-tiao-fang-hai-qing-suan-zui.md
+      - 《刑法》第162条之二：虚假破产罪: 12-xing-min-jiao-cha/xing-fa-di-162-tiao-zhi-er-xu-jia-po-chan-zui.md
+      - 《刑法》第162条之三：隐匿、故意销毁会计凭证、会计账簿、财务会计报告罪: 12-xing-min-jiao-cha/xing-fa-di-162-tiao-zhi-san-yin-ni-hui-jin-hui-ji-ping-zheng-zui.md
+      - 《刑法》第175条之一：骗取贷款、票据承兑、金融票证罪: 12-xing-min-jiao-cha/xing-fa-di-175-tiao-zhi-yi-pian-qu-dai-kuan-zui.md
+    - 司法解释与规范性文件:
+      - 审理非法集资刑事案件具体应用法律若干问题的解释: 12-xing-min-jiao-cha/shen-li-fei-fa-ji-zi-xing-shi-an-jian-jie-shi.md
+      - 办理非法集资刑事案件适用法律若干问题的意见（2014年）: 12-xing-min-jiao-cha/ban-li-fei-fa-ji-zi-xing-shi-an-jian-guan-yi-jian.md
+      - 办理非法集资刑事案件若干问题的意见（2019年）: 12-xing-min-jiao-cha/ban-li-fei-fa-ji-zi-xing-shi-an-jian-ruo-gan-wen-ti-yi-jian-2019.md
+      - 审理拒不执行判决、裁定刑事案件适用法律若干问题的解释: 12-xing-min-jiao-cha/shen-li-ju-bu-zhi-xing-pan-jue-cai-ding-xing-shi-an-jian-jie-shi.md
+    - 地方司法文件:
+      - 浙江高院关于在审理企业破产案件中处理涉集资类犯罪刑民交叉若干问题的讨论纪要: 12-xing-min-jiao-cha/zhe-jiang-gao-yuan-she-ji-zi-xing-shi-an-jian-xing-min-jiao-cha-ji-yao.md
+    - 典型案例:
+      - 人民法院惩治逃废债典型案例（2025年）: 12-xing-min-jiao-cha/zui-gao-fa-yuan-cheng-zhi-tao-fei-zhai-dian-xing-an-li-2025.md
+      - 依法惩治通过虚假诉讼逃废债典型刑事案例（2023年）: 12-xing-min-jiao-cha/zui-gao-fa-yuan-xu-jia-su-song-tao-fei-zhai-xing-shi-an-li-2023.md
+      - 刑事判决确认的债权在破产程序中的认定——王某诉江苏天某食品公司案: 12-xing-min-jiao-cha/xing-shi-pan-jue-que-ren-zhai-quan-po-chan-cheng-ren-an-li.md
+      - 浙江法院打击破产逃债和虚假申报债权典型案例（2025年）: 12-xing-min-jiao-cha/zhe-jiang-gao-yuan-da-ji-po-chan-tao-zhai-dian-xing-an-li-2025.md
+  - 十三、专题研究:
+    - 概述: 13-zhuan-ti-yan-jiu/index.md
+  - 十四、数据库资源:
+    - 概述: 14-can-kao-zi-liao/index.md
