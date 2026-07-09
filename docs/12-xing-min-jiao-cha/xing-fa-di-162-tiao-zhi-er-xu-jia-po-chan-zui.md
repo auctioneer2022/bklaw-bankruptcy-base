@@ -49,6 +49,6 @@ source: "《中华人民共和国刑法》（2020年修正）"
 
 ## 关联文件
 
-- [《中华人民共和国刑法》（破产相关条款）](../../01-fa-lv/qi-ta-fa-lv/xing-fa.md)
-- [《中华人民共和国企业破产法》](../../01-fa-lv/qi-ye-po-chan-fa.md)
-- [《最高人民法院关于适用〈中华人民共和国企业破产法〉若干问题的规定（二）》](../../03-si-fa-jie-shi/ti-xi-xing-jie-shi/po-chan-fa-ruo-gan-wen-ti-gui-ding-er.md) — 债务人财产认定及可撤销行为
+- [《中华人民共和国刑法》（破产相关条款）](../01-fa-lv/qi-ta-fa-lv/xing-fa.md)
+- [《中华人民共和国企业破产法》](../01-fa-lv/qi-ye-po-chan-fa.md)
+- [《最高人民法院关于适用〈中华人民共和国企业破产法〉若干问题的规定（二）》](../03-si-fa-jie-shi/ti-xi-xing-jie-shi/po-chan-fa-ruo-gan-wen-ti-gui-ding-er.md) — 债务人财产认定及可撤销行为

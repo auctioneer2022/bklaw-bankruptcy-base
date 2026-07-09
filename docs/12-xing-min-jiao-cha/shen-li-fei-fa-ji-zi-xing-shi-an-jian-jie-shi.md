@@ -173,4 +173,4 @@ url: "http://gongbao.court.gov.cn/Details/b83d79b26ba748a0b5bad20747255b.html"
 
 - [《刑法》第162条之二：虚假破产罪](xing-fa-di-162-tiao-zhi-er-xu-jia-po-chan-zui.md)
 - [《刑法》第175条之一：骗取贷款、票据承兑、金融票证罪](xing-fa-di-175-tiao-zhi-yi-pian-qu-dai-kuan-zui.md)
-- [涉案财产与破产财产的区分及刑事追赃债权清偿顺位](../../10-shi-wu-zhi-nan/shi-ti-wen-ti/she-an-cai-chan-yu-po-chan-cai-chan-qu-fen-ji-xing-shi-zhui-zang-qing-chang-shun-wei.md)
+- [涉案财产与破产财产的区分及刑事追赃债权清偿顺位](../10-shi-wu-zhi-nan/shi-ti-wen-ti/she-an-cai-chan-yu-po-chan-cai-chan-qu-fen-ji-xing-shi-zhui-zang-qing-chang-shun-wei.md)

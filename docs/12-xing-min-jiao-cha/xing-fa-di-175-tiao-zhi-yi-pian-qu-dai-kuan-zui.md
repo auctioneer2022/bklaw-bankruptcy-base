@@ -52,6 +52,6 @@ source: "《中华人民共和国刑法》（2020年修正）"
 
 ## 关联文件
 
-- [《中华人民共和国刑法》（破产相关条款）](../../01-fa-lv/qi-ta-fa-lv/xing-fa.md)
-- [《中华人民共和国企业破产法》](../../01-fa-lv/qi-ye-po-chan-fa.md)
-- [涉案财产与破产财产的区分及刑事追赃债权清偿顺位](../../10-shi-wu-zhi-nan/shi-ti-wen-ti/she-an-cai-chan-yu-po-chan-cai-chan-qu-fen-ji-xing-shi-zhui-zang-qing-chang-shun-wei.md)
+- [《中华人民共和国刑法》（破产相关条款）](../01-fa-lv/qi-ta-fa-lv/xing-fa.md)
+- [《中华人民共和国企业破产法》](../01-fa-lv/qi-ye-po-chan-fa.md)
+- [涉案财产与破产财产的区分及刑事追赃债权清偿顺位](../10-shi-wu-zhi-nan/shi-ti-wen-ti/she-an-cai-chan-yu-po-chan-cai-chan-qu-fen-ji-xing-shi-zhui-zang-qing-chang-shun-wei.md)
