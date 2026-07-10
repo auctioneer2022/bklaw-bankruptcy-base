@@ -4,7 +4,7 @@
 
 ## 访问地址
 
-- GitHub Pages: https://auctioneer2022.github.io/bankruptcy-knowledge-base/
+- GitHub Pages: https://auctioneer2022.github.io/bklaw-bankruptcy-base/
 
 ## 知识库架构
 
@@ -49,7 +49,7 @@
 ## 项目结构
 
 ```
-bankruptcy-knowledge-base/
+bklaw-bankruptcy-base/
 ├── docs/                                    # 文档源文件
 │   ├── index.md                             # 首页
 │   ├── 01-fa-lv/                            # 一、法律
