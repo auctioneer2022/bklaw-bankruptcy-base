@@ -2,7 +2,7 @@
 title: "民事案件案由规定"
 category: "司法解释"
 tags: ["民事案由", "案由体系", "破产案由", "公司案由", "非讼程序"]
-date: "2021-01-01"
+date: "2026-07-10 15:03:18"
 author: "最高人民法院"
 status: "现行有效"
 source: "https://www.court.gov.cn"

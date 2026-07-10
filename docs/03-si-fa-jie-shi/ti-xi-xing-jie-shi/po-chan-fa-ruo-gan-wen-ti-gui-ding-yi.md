@@ -2,7 +2,7 @@
 title: "最高人民法院关于适用《中华人民共和国企业破产法》若干问题的规定（一）"
 category: "司法解释"
 tags: ["司法解释", "破产原因", "破产申请"]
-date: "2011-09-09"
+date: "2026-07-10 15:03:18"
 author: "知识库维护团队"
 status: "现行有效"
 source: "https://www.court.gov.cn"

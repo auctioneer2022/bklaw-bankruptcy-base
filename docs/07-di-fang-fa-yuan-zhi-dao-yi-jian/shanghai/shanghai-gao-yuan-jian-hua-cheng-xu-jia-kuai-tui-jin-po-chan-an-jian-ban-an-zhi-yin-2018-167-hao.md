@@ -2,7 +2,7 @@
 title: "上海市高级人民法院关于简化程序加快推进破产案件审理的办案指引"
 category: "法院指导意见"
 tags: ["上海高院", "简化审理", "繁简分流", "快速审理", "破产程序", "办案指引", "僵尸企业", "地方法院"]
-date: "2018-09-01"
+date: "2026-07-10 15:03:18"
 effective_date: "2018-06-01"
 source: "https://www.sxls.com/pochanzhiyin.html"
 status: "现行有效"

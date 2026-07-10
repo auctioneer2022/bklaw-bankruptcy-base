@@ -2,7 +2,7 @@
 title: "上海市高级人民法院执行转破产工作的规范指引（2022年版）"
 category: "法院指导意见"
 tags: ["上海高院", "执转破", "执行移送破产", "执行程序", "破产程序衔接", "重整价值", "重整可能性", "地方法院"]
-date: "2022-03-31"
+date: "2026-07-10 15:03:18"
 effective_date: "2022-03-31"
 source: "https://www.hshfy.sh.cn/shfy/web/xxnr_yshj.jsp?pa=aaWQ9MTAyMDM4MzE0OCZ4aD0xJmxtZG09TE0xMjE2z"
 status: "现行有效"

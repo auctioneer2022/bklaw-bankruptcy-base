@@ -2,7 +2,7 @@
 title: "全国法院破产审判工作会议纪要"
 category: "最高人民法院司法文件"
 tags: ["会议纪要", "破产审判", "实务指引", "法〔2018〕53号"]
-date: "2018-03-06"
+date: "2026-07-10 15:03:18"
 author: "知识库维护团队"
 status: "现行有效"
 source: "https://www.court.gov.cn"

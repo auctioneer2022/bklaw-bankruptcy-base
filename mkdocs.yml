@@ -40,7 +40,12 @@ plugins:
         - en
 
 markdown_extensions:
+  - admonition
   - attr_list
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: true
 
 extra:
   social:

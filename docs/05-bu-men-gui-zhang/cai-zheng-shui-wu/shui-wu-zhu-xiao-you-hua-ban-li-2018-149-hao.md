@@ -2,7 +2,7 @@
 title: "国家税务总局关于进一步优化办理企业税务注销程序的通知"
 category: "部门规章"
 tags: ["税收", "税务注销", "清税证明", "放管服", "破产注销"]
-date: "2018-09-18"
+date: "2026-07-10 15:03:18"
 author: "知识库维护团队"
 status: "现行有效"
 source: "https://www.chinatax.gov.cn"

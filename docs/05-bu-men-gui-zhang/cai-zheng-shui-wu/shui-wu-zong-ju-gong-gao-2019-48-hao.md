@@ -2,7 +2,7 @@
 title: "国家税务总局关于税收征管若干事项的公告"
 category: "部门规章"
 tags: ["税收", "税收征管", "税务规定", "破产清算", "非正常户", "欠税滞纳金"]
-date: "2019-12-12"
+date: "2026-07-10 15:03:18"
 author: "知识库维护团队"
 status: "现行有效"
 source: "https://www.chinatax.gov.cn"

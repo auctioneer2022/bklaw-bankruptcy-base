@@ -2,7 +2,7 @@
 title: "上海市高级人民法院破产审判工作规范指引（试行）"
 category: "法院指导意见"
 tags: ["上海高院", "破产审判", "工作规范", "指引", "破产申请", "破产受理", "案件管辖", "破产能力", "破产原因", "执转破", "地方法院"]
-date: "2018-01-01"
+date: "2026-07-10 15:03:18"
 effective_date: "2018-01-01"
 source: "https://www.hshfy.sh.cn/shfy/web/xxnr.jsp?pa=aaWQ9MjAxMTI2OTQmeGg9MSZsbWRtPWxtOTEwz"
 status: "现行有效"

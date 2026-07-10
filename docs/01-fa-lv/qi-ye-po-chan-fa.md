@@ -2,7 +2,7 @@
 title: "中华人民共和国企业破产法"
 category: "法律"
 tags: ["企业破产法", "法律全文", "破产程序"]
-date: "2006-08-27"
+date: "2026-07-10 15:03:18"
 author: "知识库维护团队"
 status: "现行有效"
 source: "https://www.gov.cn"

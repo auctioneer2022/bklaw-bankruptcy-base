@@ -2,7 +2,7 @@
 title: "中华人民共和国税收征收管理法"
 category: "部门规章"
 tags: ["税收", "税收征收管理法", "行政法规", "税务"]
-date: "2001-04-28"
+date: "2026-07-10 15:03:18"
 author: "知识库维护团队"
 status: "现行有效"
 source: "https://www.chinatax.gov.cn"
